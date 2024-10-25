@@ -3,7 +3,6 @@
 
 ### Prerequisites
 - Docker installed on your machine.
-- Docker Compose installed on your machine.
 - Docker CLI
 
 1. Build the Docker Image<br>
@@ -33,8 +32,3 @@ Docker CLI: To stop the container, run:
 docker stop myapp_container
 ```
 
-Docker Compose: To stop the application, run:
-
-```bash
-docker-compose down
-```
